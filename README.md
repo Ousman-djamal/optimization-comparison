@@ -57,10 +57,10 @@ optimization-comparison/
 │
 │
 ├── resultat/
+│   ├── gradient_conjugue.png
 │   ├── gradient_constant.png
 │   ├── gradient_optimal.png
-│   ├── newton.png
-│   └── gradient_conjugue.png
+│   └── newton.png
 │   
 ├── src/
 │   ├── gradient_pas_cst.py
