@@ -85,22 +85,16 @@ optimization-comparison/
 ## Visualisations
 
 ### Gradient à pas constant
-
-![Gradient Constant](resultat/gradient_constant.png)
+![Gradient Constant](./resultat/gradient_constant.png)
 
 ### Gradient conjugue
-
-![Gradient Conjugue](resultat/gradient_conjugue.png)
-
+![Gradient Conjugue](./resultat/gradient_conjugue.png)
 
 ### Gradient à pas optimal
-
-![Gradient Optimal](resultat/gradient_optimal.png)
-
+![Gradient Optimal](./resultat/gradient_optimal.png)
 
 ### Méthode de Newton
-
-![Newton](resultat/newton.png)
+![Newton](./resultat/newton.png)
 
 ---
 
